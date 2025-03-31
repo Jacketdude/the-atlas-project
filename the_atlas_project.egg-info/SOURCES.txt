@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+the_atlas_project/__init__.py
+the_atlas_project/atlas_reader.py
+the_atlas_project.egg-info/PKG-INFO
+the_atlas_project.egg-info/SOURCES.txt
+the_atlas_project.egg-info/dependency_links.txt
+the_atlas_project.egg-info/requires.txt
+the_atlas_project.egg-info/top_level.txt

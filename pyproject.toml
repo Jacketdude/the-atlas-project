@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "the-atlas-project"
+version = "1.0.1"
+description = "A simple atlasting system for Raylib-py"
+authors = [{ name = "DDev" }]
+license = { text = "MIT" }
+readme = "README.md"
+dependencies = [ "raylib-py" ]
+
+[project.urls]
+Homepage = "https://github.com/Jacketdude/the-atlas-project"
+Repository = "https://github.com/Jacketdude/the-atlas-project"

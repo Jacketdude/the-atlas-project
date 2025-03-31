@@ -1,0 +1,17 @@
+{
+  "atlas": "assets/atlas.jpg",
+  "entries": {
+    "sprite1": {
+      "x": 0,
+      "y": 0,
+      "w": 16,
+      "h": 16
+    },
+    "sprite2": {
+      "x": 17,
+      "y": 0,
+      "w": 16,
+      "h": 16
+    }
+  }
+}
