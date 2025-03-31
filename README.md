@@ -20,7 +20,7 @@ atlas = AtlasReader("atlas.json")
 ```
 
 
-- **Note: The atlas properties file must follow this syntax inorder to properly recogonize the assets:**
+- **Note: The atlas properties file must follow this syntax in order to properly recognize the assets:**
 ```json
 {
   "atlas": "assets/atlas.jpg",
@@ -43,7 +43,7 @@ atlas = AtlasReader("atlas.json")
 - **Explanation:**
   - `atlas` is the name of your atlas picture.
   - `entries` are where your sprite entries reside. You must put your sprite entries within here.
-  - `sprite1` and `sprite2` are custom names that you must assign inorder to properly get use it in `draw_sprite()` later.
+  - `sprite1` and `sprite2` are custom names that you must assign in order to properly get use it in `draw_sprite()` later.
   - `x`, `y`, `w` and `h` correspond to x position, y position, width, and height respectively. This is important because this is how the module can actually find the texture.
 
 ### 4. Drawing:
