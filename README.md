@@ -59,3 +59,6 @@ atlas.draw_sprite("sprite2", 20, 20, scalex=5.0, scaley=5.0)
 ```python
 atlas.unload()
 ```
+
+### Your finished code would look something like:
+![Finished Code](https://raw.githubusercontent.com/Jacketdude/the-atlas-project/refs/heads/main/assets/finished_code.png)
